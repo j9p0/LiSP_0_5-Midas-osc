@@ -1,4 +1,7 @@
 # LiSP_0_5-Midas-osc
+
+Keep in mind that linux show player 0.6 is now released. This script can still be used for other things. Including sending osc mesages to Linux show player.
+
 Simple script to send OSC mesages using python and python-osc 
 
 OSC mesages has been added in linux show player 0.6 but found it not very stable. So made a very simple script to send it using python in Linux Show Player 0.5.3.
